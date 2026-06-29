@@ -1,4 +1,4 @@
-# 
+# Último AI Fitness Trainer Assistant plugins. Con optimización de modelos y IA en el borde — optimizado para el máximo rendimiento.
 
 
 
